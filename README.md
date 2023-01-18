@@ -26,7 +26,7 @@ Finally, in the reloading phase, you will reload your gun and prepare for the ne
 
 ## Installation 
 - Install python3 and pygame library
-- Run the game.py file
+- Run the vl2.py file
 
 ## Tips
 
